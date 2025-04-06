@@ -31,12 +31,12 @@ show_dates:
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
-  disqus_shortname: klugjo
+  # disqus_shortname: klugjo
   # Facebook comments
-  facebook:
-    appid:
-    comment_count: 5
-    comment_colorscheme: light
+  # facebook:
+  #   appid:
+  #   comment_count: 5
+  #   comment_colorscheme: light
 
 # Google Analytics Tracking ID
 google_analytics:

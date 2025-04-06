@@ -5,7 +5,7 @@ tags:
 - 职场
 - AI
 - 招聘
-cover_index: /images/cover2.png
+cover_index: https://736f-sopo-art-8olym-1302835363.tcb.qcloud.la/cloudbase-cms/upload/2025-03-31/6jf1aao5ua4imyrh6tbe1j82znxcif6n_.png
 ---
 
 ## 缘起

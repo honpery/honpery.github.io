@@ -30,7 +30,7 @@ show_dates: true
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
-  disqus_shortname: zhang.ky
+  # disqus_shortname:
   # Facebook comments
   # facebook:
   #   appid:
