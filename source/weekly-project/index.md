@@ -11,7 +11,7 @@ layout: weekly-project
 
 所以从今年开始将会开始Weekly Project的挑战，每周落地一个新idea去探索更多可能性，借助强大的AI能力去做更多有价值的事儿。当然所做的项目肯定不是玩具，将会有三个月的市场验证周期，如果数据还可以将会转为长期项目。
 
-## 2025项目
+## 2025
 
 {% project %}
 name: arXiv中文站
@@ -19,5 +19,4 @@ range: 2025W15
 date: 2025-04-07 ~ 2025-04-13
 description: arXiv是一个开放获取的学术预印本平台，收录物理学、数学、计算机科学等领域的研究论文，为全球研究者提供快速分享和获取最新研究成果的渠道, 中文站为全球研究者提供中文服务，全站支持中文翻译。
 link: https://paper.sopolive.com
-cover: 
 {% endproject %}
