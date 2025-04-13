@@ -52,3 +52,7 @@ behance_url: https://www.behance.net/
 fivehundredpx_url: https://500px.com/
 email_url: \#
 rss_url: \#
+
+custom_template:
+  enable: true
+  path: weekly-project

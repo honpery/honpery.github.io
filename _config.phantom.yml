@@ -2,6 +2,7 @@
 menu:
   首页: /
   归档: /archives
+  'WEEKLY PROJECT': '/weekly-project'
 
 # Logo Image Source
 logo_src: /images/logo.svg
@@ -51,3 +52,7 @@ behance_url:
 fivehundredpx_url: 
 email_url: mailto:honpery@gmail.com
 rss_url: 
+
+
+custom_tags:
+  enable: true
