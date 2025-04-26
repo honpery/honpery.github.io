@@ -14,9 +14,25 @@ layout: weekly-project
 ## 2025
 
 {% project %}
-name: arXiv中文站
+name: Research AI
 range: 2025W15
 date: 2025-04-07 ~ 2025-04-13
 description: arXiv是一个开放获取的学术预印本平台，收录物理学、数学、计算机科学等领域的研究论文，为全球研究者提供快速分享和获取最新研究成果的渠道, 中文站为全球研究者提供中文服务，全站支持中文翻译。
 link: https://paper.sopolive.com
+{% endproject %}
+
+{% project %}
+name: AI Keyword Finder
+range: 2025W17
+date: 2025-04-21 ~ 2025-04-27
+description: AI文生图关键词挖掘，热词、新词等等数据分析。
+link: https://aikeyword.sopolive.com
+{% endproject %}
+
+{% project %}
+name: 逛馆
+range: 2025W18
+date: 2025-04-28 ~ 2025-05-04
+description: 逛馆是逛博物馆的友好助手，可以提供个性化的导展、讲解、记录、分享等功能，让逛展的体验更加丰富。
+link: https://museum.sopolive.com
 {% endproject %}

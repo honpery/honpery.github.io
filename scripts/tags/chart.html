@@ -1,0 +1,10 @@
+<div class="chart-container" style="width: <%- width %>;margin: 20px auto; height: <%- height %>px;">
+  <canvas id="<%- chartId %>" style="height: <%- height %>px"></canvas>
+</div>
+<script>
+  (function() {
+    var ctx = document.getElementById('<%- chartId %>').getContext('2d');
+    var options = <%= chartConfig %>;
+    new Chart(ctx, options);
+  })();
+</script>

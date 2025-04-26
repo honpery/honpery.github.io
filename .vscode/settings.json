@@ -6,4 +6,7 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
   },
+  "[markdown]": {
+    "editor.formatOnSave": false
+  }
 }
